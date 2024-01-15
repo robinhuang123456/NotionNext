@@ -1,12 +1,12 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-01-14', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '无论您是对AI技术的深度了解者还是初学者，我们都将为您呈现有趣、丰富的内容', url: 'https://blog.tangly1024.com' },
-    { title: '不论是最新的研究进展、行业趋势，还是令人惊叹的创新应用', url: 'https://docs.tangly1024.com' }
+    { title: '不论是最新的研究进展、行业趋势，还是令人惊叹的创新应用', url: 'https://www.ainio.fun/' }
   ],
 
   // 英雄区(首页顶部大卡)
@@ -29,7 +29,7 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
+    '你好！我是ainio',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
@@ -37,7 +37,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://www.ainio.fun/', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [

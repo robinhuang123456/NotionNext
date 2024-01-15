@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '无论您是对AI技术的深度了解者还是初学者，我们都将为您呈现有趣、丰富的内容', url: 'https://www.ainio.fun' },
-    { title: '不论是最新的研究进展、行业趋势，还是令人惊叹的创新应用', url: 'https://www.ainio.fun' }
+    { title: '不论是最新的研究进展、行业趋势，还是令人惊叹的创新应用', url: 'https://www.ainio.fun' },
   ],
 
   // 英雄区(首页顶部大卡)

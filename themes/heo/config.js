@@ -14,8 +14,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'ainio.fun',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '数据交易市场',
-  HEO_HERO_TITLE_LINK: 'https://maize-bestseller-bb6.notion.site/dfd3c0df41c84ffa9329f4e8b86ceed6?pvs=4',
+  HEO_HERO_TITLE_5: '大数据+应用场景',
+  HEO_HERO_TITLE_LINK: 'https://www.ainio.fun/datascene',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '每日新闻', url: '/tag/每日新闻' },
